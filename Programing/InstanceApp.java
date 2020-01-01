@@ -20,7 +20,7 @@ public class InstanceApp {
 		//그 인스턴스에 어떤 값이 오는가를 적은게 PrintWriter p1 이다
 		p1.write("Hello 1");
 		p1.write("Hello 234");
-		p1.write("\n안녕을 아세?");
+		p1.write("\n안녕을 아세?산산산산");
 		p1.close();
 		
 		PrintWriter p2 = new PrintWriter("result2.txt");
